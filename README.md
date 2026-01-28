@@ -3,15 +3,23 @@ A responsive image slider built using HTML, CSS, and JavaScript that allows user
 This project focuses on DOM manipulation, file handling, and responsive UI design.
 
 Features:
+
 Upload multiple images from local device
+
 Automatic slideshow with timed transitions
+
 Previous and Next navigation controls
+
 Smooth, responsive, and modern UI
+
 Works without any external libraries
 
 Technologies Used:
+
 HTML
-CSS3 (Flexbox, gradients, glassmorphism UI)
+
+CSS (Flexbox, gradients, glassmorphism UI)
+
 JavaScript (Image handling, slider logic)
 
 This project demonstrates practical skills in JavaScript interactivity, UI/UX design, and client-side file management.
